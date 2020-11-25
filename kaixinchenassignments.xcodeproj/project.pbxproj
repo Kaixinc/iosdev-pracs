@@ -6,18 +6,38 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXContainerItemProxy section */
+		78F9030C256E328600054602 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 78F90308256E328500054602 /* kc_autolayout.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 78F902F1256E328300054602;
+			remoteInfo = kc_autolayout;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		786BB119256200EE0034699F /* hw2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hw2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		78A0C1F1255D4152003D0B07 /* hw1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hw1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		78F90308256E328500054602 /* kc_autolayout.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = kc_autolayout.xcodeproj; path = hw_autolayout/kc_autolayout/kc_autolayout.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		78A0C1EA255D412B003D0B07 = {
 			isa = PBXGroup;
 			children = (
+				78F90308256E328500054602 /* kc_autolayout.xcodeproj */,
 				786BB119256200EE0034699F /* hw2.playground */,
 				78A0C1F1255D4152003D0B07 /* hw1.playground */,
 			);
+			sourceTree = "<group>";
+		};
+		78F90309256E328500054602 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				78F9030D256E328600054602 /* kc_autolayout.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -38,11 +58,27 @@
 			);
 			mainGroup = 78A0C1EA255D412B003D0B07;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 78F90309256E328500054602 /* Products */;
+					ProjectRef = 78F90308256E328500054602 /* kc_autolayout.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		78F9030D256E328600054602 /* kc_autolayout.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = kc_autolayout.app;
+			remoteRef = 78F9030C256E328600054602 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin XCBuildConfiguration section */
 		78A0C1EF255D412B003D0B07 /* Debug */ = {
