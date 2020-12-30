@@ -18,6 +18,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		26B6C1E8259CD0F800ED64CD /* hw1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = hw1.playground; path = ../../hw1.playground; sourceTree = "<group>"; };
+		26B6C1EA259CD10000ED64CD /* hw1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = hw1.playground; path = ../../hw1.playground; sourceTree = "<group>"; };
+		26B6C1EB259CD10600ED64CD /* hw1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = hw1.playground; path = ../../hw1.playground; sourceTree = "<group>"; };
 		78F902F1256E328300054602 /* kc_autolayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kc_autolayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78F902F4256E328300054602 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78F902F6256E328300054602 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +47,9 @@
 		78F902E8256E328300054602 = {
 			isa = PBXGroup;
 			children = (
+				26B6C1E8259CD0F800ED64CD /* hw1.playground */,
+				26B6C1EA259CD10000ED64CD /* hw1.playground */,
+				26B6C1EB259CD10600ED64CD /* hw1.playground */,
 				78F902F3256E328300054602 /* kc_autolayout */,
 				78F902F2256E328300054602 /* Products */,
 			);
