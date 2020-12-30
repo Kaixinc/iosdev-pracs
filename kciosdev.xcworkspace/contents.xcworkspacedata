@@ -43,7 +43,4 @@
    <FileRef
       location = "group:instrumentsExample/instrumentsExample.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:slotswiftui/slotswiftui.xcodeproj">
-   </FileRef>
 </Workspace>
