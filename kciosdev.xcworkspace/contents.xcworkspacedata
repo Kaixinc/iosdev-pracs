@@ -2,15 +2,48 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/kaixinchen/Documents/kaixinchenassignments/MVVMExampleWithClosure&#xff08;typealiascallback&#xff09;/typealias.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:leetcode challenge.playground">
+   </FileRef>
+   <FileRef
+      location = "group:api_test/apicall_test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/kaixinchen/Documents/kaixinchenassignments/mvvm_protocol_test/protocol_test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/kaixinchen/Downloads/generics, post, test/generic_test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ConcurrencyPractice/ConcurrencyDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MinimumSpanningTree.playground">
+   </FileRef>
+   <FileRef
+      location = "group:QuizApp/QuizApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:hw_autolayout/kc_autolayout/kc_autolayout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MapKit_HonoluluArt/starter/HonoluluArt.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MVVMClosure(with test)/MVVMClosure.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:hw1.playground">
    </FileRef>
    <FileRef
       location = "group:hw2.playground">
    </FileRef>
    <FileRef
-      location = "group:../kaixinchenassignments/singletonchangepg/MVVMExample.xcodeproj">
+      location = "group:instrumentsExample/instrumentsExample.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../kaixinchenassignments/hw_autolayout/kc_autolayout/kc_autolayout.xcodeproj">
+      location = "group:slotswiftui/slotswiftui.xcodeproj">
    </FileRef>
 </Workspace>

@@ -4,6 +4,27 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MinimumSpanningTree (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>MinimumSpanningTree (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>MinimumSpanningTree (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>hw1 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,6 +38,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>7</integer>
+		</dict>
+		<key>hw1 (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>hw1 (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>hw1 (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
 		</dict>
 		<key>hw1 (Playground).xcscheme</key>
 		<dict>
@@ -44,7 +86,70 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 4.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 5.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 6.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 7.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>leetcode challenge (Playground) 8.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>leetcode challenge (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>
