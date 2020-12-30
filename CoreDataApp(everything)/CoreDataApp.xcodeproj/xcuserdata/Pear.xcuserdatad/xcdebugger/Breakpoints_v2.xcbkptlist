@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "08AE9736-89A0-46B8-9B56-7692DF0D2A6B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - e27e5ed10e7a8c40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.persistentContainer.getter : __C.NSPersistentContainer"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - 9e80e5867d7d2a10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSPersistentContainer in CoreDataApp.AppDelegate.persistentContainer.getter : __C.NSPersistentContainer"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - 9da84fed42b60074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.persistentContainer.setter : __C.NSPersistentContainer"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - dd2ad2aec12c586e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.persistentContainer.modify : __C.NSPersistentContainer"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - 82d3d765969cd512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.persistentContainer.modify : __C.NSPersistentContainer with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DC98576C-0378-47B3-B2D1-9A5569103F1A - c4dde958b8ea4fa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.init() -&gt; CoreDataApp.AppDelegate"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28134BBA-46A4-4CF4-8FFB-64AEA271CAE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4A00658-7DE2-4208-BC04-42754FB7E74C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C1B2382-8A85-4A42-94DF-0068BF900B8D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBE62C32-ADA4-4850-8ECB-994100B57DDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchRecords()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "889A49FE-FB04-4812-B21D-9FBA0B4A7BC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "deleteRecord(person:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57A2ED88-5381-4111-808E-34250C5DDC0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7764F5A-988D-4C20-89D3-D34B306A4505"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C7764F5A-988D-4C20-89D3-D34B306A4505 - ed835f464e38b347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.i.getter : Swift.Int"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C7764F5A-988D-4C20-89D3-D34B306A4505 - c4dde958b8eab49e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.init() -&gt; CoreDataApp.AppDelegate"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataApp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F - 793adb07c31c5c67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.j.getter : Swift.Int"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F - 8192d52db03dc07b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.j.setter : Swift.Int"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F - b12c87d8d7eee154"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.j.modify : Swift.Int"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F - 33ef4066cce0e77b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.j.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "B84F81CE-57D9-4D25-88FB-5314EA79569F - c4dde958b8eab4bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataApp.AppDelegate.init() -&gt; CoreDataApp.AppDelegate"
+                  moduleName = "CoreDataApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pear/Desktop/iOS%20Dev/CoreDataApp/CoreDataApp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
